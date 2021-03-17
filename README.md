@@ -1,4 +1,4 @@
-# 👋 Hi! I’m @devgoldm
+# 👋 Hi There!
 
 ## 👀 I’m interested in ...
 Any cool tech that makes anything simpler, easier, or more efficient.
