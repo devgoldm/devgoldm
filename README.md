@@ -1,4 +1,6 @@
-# 👋 Hi There!
+# 👋 Howdy!
+
+_If you want a more in-depth look at my skills, please visit my website [here](https://goldm.dev/about)_
 
 ## 👀 I’m interested in ...
 Any cool tech that makes anything **simpler**, **easier**, or more **efficient**  - in **any** domain and in **any** capacity.
