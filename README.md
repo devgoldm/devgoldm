@@ -2,8 +2,6 @@
 
 ## 👀 I’m interested in ...
 Any cool tech that makes anything simpler, easier, or more efficient.
-Let me know if there's any cool ideas you want to work on!
-
 I also like blogging about tech in my spare time on my website [goldm.dev](https://goldm.dev/blog), feel free to check it out! 
 
 ## 🌱 I’m currently learning ...
