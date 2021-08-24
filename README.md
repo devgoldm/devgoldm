@@ -11,7 +11,7 @@ I also like **blogging** about tech in my spare time on my website [goldm.dev](h
 A bit of **Rust**, some high-level understanding of **databases**, and **Wasm**.
 
 ## 💞️ I’m looking to collaborate on ...
-Nothing yet, although if you've got a _really_ cool idea you want to convince me with I'm always **open to being persuaded**!
+Nothing yet, although if you've got a _really_ cool idea you want to convince me with I'm always open to being persuaded!
 
 ## 📫 How to reach me ...
 Shoot me a DM on **Twitter** [@DevGoldm](https://twitter.com/DevGoldm)
